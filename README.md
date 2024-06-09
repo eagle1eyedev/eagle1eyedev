@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @eagle1eyedev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-eagle1eyedev/eagle1eyedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Eleni. I'm currently an honorary assistant at University of Economics Varna, teaching Windows, Linux, C++ and MS Office.
+- 👀 I’m interested in C++, C#, Linux, Windows, Shell Scripting, SQL Server ❤, HTML5, CSS3, Bootstrap 5, JavaScript.
+- 🌱 I’m currently learning Computer Science.
+- 🌐 My native language is Bulgarian, but I can also speak in English (B2) and Greek (A2).
+- 🧸 My hobbies are playing guitar, piano, ukulele, also cooking and singing.
+- 🧑‍🦰 Social skills - communication, loyalty, teamwork, adaptability and expeditivity.
+- 📫 How to reach me - eleni95589@gmail.com
+  
